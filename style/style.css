@@ -239,11 +239,11 @@ body {
   }
 }
 
-@media screen and (max-height: 800px) {
+/* @media screen and (max-height: 800px) {
   .six .hat {
     left: 37%;
   }
-}
+} */
 
 @media screen and (max-height: 700px) {
   .six .hat {
